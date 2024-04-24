@@ -24,9 +24,6 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614555}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614556}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614699}
       id: 0
       isStickyNote: 0
@@ -48,18 +45,6 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614558}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614882}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614580}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614609}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614569}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614944}
       id: 0
       isStickyNote: 0
@@ -75,34 +60,7 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614583}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614628}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614915}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614640}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614895}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614953}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614585}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614589}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 0}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614591}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614593}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614809}
@@ -131,16 +89,10 @@ MonoBehaviour:
     - model: {fileID: 8926484042661615057}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615059}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615123}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615148}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615150}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614699}
@@ -155,15 +107,6 @@ MonoBehaviour:
     - model: {fileID: 8926484042661615096}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615098}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615119}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615213}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615053}
       id: 4
       isStickyNote: 0
@@ -176,43 +119,13 @@ MonoBehaviour:
     - model: {fileID: 8926484042661615171}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615174}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615230}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615179}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615186}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615062}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615190}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615077}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615089}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615092}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615126}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615141}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615143}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615145}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615225}
@@ -745,6 +658,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 081ffb0090424ba4cb05370a42ead6b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_UIIgnoredErrors: []
+  m_Parent: {fileID: 0}
+  m_Children: []
+  m_UIPosition: {x: 0, y: 0}
+  m_UICollapsed: 1
+  m_UISuperCollapsed: 0
+  opaqueRenderQueue: 0
+  transparentRenderQueue: 1
 --- !u!114 &8926484042661614591
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10476,7 +10397,8 @@ MonoBehaviour:
   generateMotionVector: 0
   excludeFromTAA: 0
   sortingPriority: 0
-  m_SubOutputs: []
+  m_SubOutputs:
+  - {fileID: 8926484042661615251}
   colorMapping: 0
   uvMode: 0
   flipbookLayout: 0
@@ -12889,3 +12811,23 @@ MonoBehaviour:
         PublicKeyToken=b77a5c561934e089
   m_Direction: 0
   m_LinkedSlots: []
+--- !u!114 &8926484042661615251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 081ffb0090424ba4cb05370a42ead6b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UIIgnoredErrors: []
+  m_Parent: {fileID: 0}
+  m_Children: []
+  m_UIPosition: {x: 0, y: 0}
+  m_UICollapsed: 1
+  m_UISuperCollapsed: 0
+  opaqueRenderQueue: 0
+  transparentRenderQueue: 1
