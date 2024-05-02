@@ -87,9 +87,9 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 4
     - _RequireSplitLighting: 0
-    - _RippleDensity: 7
-    - _RippleSlimness: 5
-    - _RippleSpeed: 1
+    - _RippleDensity: 10
+    - _RippleSlimness: 30
+    - _RippleSpeed: 2
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 0
