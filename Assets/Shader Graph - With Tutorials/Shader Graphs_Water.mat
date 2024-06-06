@@ -73,7 +73,7 @@ Material:
     - _EnableFogOnTransparent: 1
     - _Foam_Distance: 0.2
     - _Metallic: 0
-    - _Noise_Scale: 0.02
+    - _Noise_Scale: 0.01
     - _OpaqueCullMode: 2
     - _RayTracing: 0
     - _ReceivesSSR: 1
@@ -96,7 +96,7 @@ Material:
     - _StencilWriteMaskMV: 41
     - _SupportDecals: 1
     - _SurfaceType: 1
-    - _Transparency: 0.233
+    - _Transparency: 0.09
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
@@ -105,7 +105,7 @@ Material:
     - _TransparentWritingMotionVec: 0
     - _TransparentZWrite: 0
     - _UseShadowThreshold: 0
-    - _Wave_Speed: 0.00801
+    - _Wave_Speed: 0.003
     - _ZTestDepthEqualForOpaque: 4
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 4

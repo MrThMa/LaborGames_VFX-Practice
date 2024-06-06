@@ -519,7 +519,7 @@
     },
     "m_PreviewData": {
         "serializedMesh": {
-            "m_SerializedMesh": "{\"mesh\":{\"fileID\":10209,\"guid\":\"0000000000000000e000000000000000\",\"type\":0}}",
+            "m_SerializedMesh": "{\"mesh\":{\"fileID\":10200,\"guid\":\"0000000000000000e000000000000000\",\"type\":0}}",
             "m_Guid": ""
         },
         "preventRotation": false
@@ -950,7 +950,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 1.0,
+    "m_Value": 3.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -2392,7 +2392,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 5.0,
+    "m_Value": 30.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -3151,7 +3151,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 5.0,
+    "m_Value": 7.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -3819,7 +3819,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 7.0,
+    "m_Value": 50.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
